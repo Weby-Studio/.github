@@ -1,0 +1,11 @@
+{
+  "name": "Weby Studio Organization Workflow",
+  "description": "Weby Studio Organization CI workflow template.",
+  "iconName": "example-icon",
+  "categories": [
+    "Typescript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
