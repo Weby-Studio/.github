@@ -7,7 +7,7 @@ on:
     branches: [ $default-branch ]
 
 jobs:
-  greed:
+  greet:
     runs-on: ubuntu-latest
 
     steps:
